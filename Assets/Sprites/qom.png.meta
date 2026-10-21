@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: f4482a6842c6643f882e1c9057230e1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3450040472217031429
+    second: qom_0
+  - first:
+      213: 102543351593268897
+    second: qom_1
+  - first:
+      213: 5296128263602533221
+    second: qom_2
+  - first:
+      213: 7433864970666064709
+    second: qom_3
+  - first:
+      213: -7048388029226007169
+    second: qom_4
+  - first:
+      213: 2849948416737999838
+    second: qom_5
+  - first:
+      213: 8416883091578592175
+    second: qom_6
+  - first:
+      213: 3872965026848635587
+    second: qom_7
+  - first:
+      213: 4931631384614189012
+    second: qom_8
+  - first:
+      213: 4526183752501087439
+    second: qom_9
+  - first:
+      213: 5605072692900039029
+    second: qom_10
+  - first:
+      213: 4727018987719289958
+    second: qom_11
+  - first:
+      213: 4444794530436753883
+    second: qom_12
+  - first:
+      213: 4753830676409047915
+    second: qom_13
+  - first:
+      213: 8996676868820928470
+    second: qom_14
+  - first:
+      213: -1544229782536194027
+    second: qom_15
+  - first:
+      213: 5066141528234776550
+    second: qom_16
+  - first:
+      213: -4300428301956490901
+    second: qom_17
+  - first:
+      213: 8879113553741136226
+    second: qom_18
+  - first:
+      213: -5600894645999048018
+    second: qom_19
+  - first:
+      213: -5912545108855391413
+    second: qom_20
+  - first:
+      213: -4200375675071630739
+    second: qom_21
+  - first:
+      213: 2119774559116462531
+    second: qom_22
+  - first:
+      213: 4055450382872278754
+    second: qom_23
+  - first:
+      213: -7766291587527758895
+    second: qom_24
+  - first:
+      213: 7241853906833063667
+    second: qom_25
+  - first:
+      213: 7766614448959762448
+    second: qom_26
+  - first:
+      213: -2618150980209886473
+    second: qom_27
+  - first:
+      213: 4114084551502286725
+    second: qom_28
+  - first:
+      213: -4562062649398343721
+    second: qom_29
+  - first:
+      213: -4362023031517782427
+    second: qom_30
+  - first:
+      213: 932897363956141772
+    second: qom_31
+  - first:
+      213: -5071712267610440347
+    second: qom_32
+  - first:
+      213: 163153410855302102
+    second: qom_33
+  - first:
+      213: 7730893020056283390
+    second: qom_34
+  - first:
+      213: -4471533836695673104
+    second: qom_35
+  - first:
+      213: 9116111020030403211
+    second: qom_36
+  - first:
+      213: -8180610875833383886
+    second: qom_37
+  - first:
+      213: -2666028378524356986
+    second: qom_38
+  - first:
+      213: 4285237542193295439
+    second: qom_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: qom_0
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 269
+        width: 800
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc68c8387efe10d0800000000000000
+      internalID: -3450040472217031429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_1
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 286
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a67bcd82ae4c6100800000000000000
+      internalID: 102543351593268897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_2
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 280
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5637fec7890af7940800000000000000
+      internalID: 5296128263602533221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_3
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 285
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b35c4fdc46a2760800000000000000
+      internalID: 7433864970666064709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_4
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 273
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f754ede6e681f2e90800000000000000
+      internalID: -7048388029226007169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_5
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 288
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbfadf3cfc0d8720800000000000000
+      internalID: 2849948416737999838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_6
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab9885c396cec470800000000000000
+      internalID: 8416883091578592175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_7
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 279
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caf2dc0c298fb530800000000000000
+      internalID: 3872965026848635587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_8
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 278
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7b81b8d9ca07440800000000000000
+      internalID: 4931631384614189012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_9
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccc8f3642c30de30800000000000000
+      internalID: 4526183752501087439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_10
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 290
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5798c80dae739cd40800000000000000
+      internalID: 5605072692900039029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_11
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 289
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ce88979beb99140800000000000000
+      internalID: 4727018987719289958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_12
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 283
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9284e63151fad30800000000000000
+      internalID: 4444794530436753883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_13
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 288
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b57b530dff8f140800000000000000
+      internalID: 4753830676409047915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_14
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 282
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d78b0d12fd9adc70800000000000000
+      internalID: 8996676868820928470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_15
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 288
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f958c13bc19ae0800000000000000
+      internalID: -1544229782536194027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_16
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 285
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7d94cd0ec8e4640800000000000000
+      internalID: 5066141528234776550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_17
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 281
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69d8d77e3fc154c0800000000000000
+      internalID: -4300428301956490901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_18
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261c81bcbb2f83b70800000000000000
+      internalID: 8879113553741136226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_19
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaae6d88eff9542b0800000000000000
+      internalID: -5600894645999048018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_20
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 287
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b733cac8b62fda0800000000000000
+      internalID: -5912545108855391413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_21
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 284
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62f92cf39445b5c0800000000000000
+      internalID: -4200375675071630739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_22
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 286
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c90c000bb3fa6d10800000000000000
+      internalID: 2119774559116462531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_23
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 285
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6f253f2aad74830800000000000000
+      internalID: 4055450382872278754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_24
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 284
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbad4fd2f6983490800000000000000
+      internalID: -7766291587527758895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_25
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 285
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe3f0062cb308460800000000000000
+      internalID: 7241853906833063667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_26
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 289
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010b9a921be88cb60800000000000000
+      internalID: 7766614448959762448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_27
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fabf381e857aabd0800000000000000
+      internalID: -2618150980209886473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_28
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f473c2a1a281930800000000000000
+      internalID: 4114084551502286725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_29
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7c883f03c40b0c0800000000000000
+      internalID: -4562062649398343721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_30
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 282
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e5f40f92bf673c0800000000000000
+      internalID: -4362023031517782427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_31
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 284
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce0186b53152fc00800000000000000
+      internalID: 932897363956141772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_32
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 285
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56db61e4098ad99b0800000000000000
+      internalID: -5071712267610440347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_33
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 279
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d37ce9a923a34200800000000000000
+      internalID: 163153410855302102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_34
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 274
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef86001ed36a94b60800000000000000
+      internalID: 7730893020056283390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_35
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 286
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f66d9eaaabe1f1c0800000000000000
+      internalID: -4471533836695673104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_36
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 276
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82afe96caee28e70800000000000000
+      internalID: 9116111020030403211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_37
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 280
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234014c40c1a87e80800000000000000
+      internalID: -8180610875833383886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_38
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ee1f0a05d500bd0800000000000000
+      internalID: -2666028378524356986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qom_39
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 276
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40799827d8387b30800000000000000
+      internalID: 4285237542193295439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      qom_0: -3450040472217031429
+      qom_1: 102543351593268897
+      qom_10: 5605072692900039029
+      qom_11: 4727018987719289958
+      qom_12: 4444794530436753883
+      qom_13: 4753830676409047915
+      qom_14: 8996676868820928470
+      qom_15: -1544229782536194027
+      qom_16: 5066141528234776550
+      qom_17: -4300428301956490901
+      qom_18: 8879113553741136226
+      qom_19: -5600894645999048018
+      qom_2: 5296128263602533221
+      qom_20: -5912545108855391413
+      qom_21: -4200375675071630739
+      qom_22: 2119774559116462531
+      qom_23: 4055450382872278754
+      qom_24: -7766291587527758895
+      qom_25: 7241853906833063667
+      qom_26: 7766614448959762448
+      qom_27: -2618150980209886473
+      qom_28: 4114084551502286725
+      qom_29: -4562062649398343721
+      qom_3: 7433864970666064709
+      qom_30: -4362023031517782427
+      qom_31: 932897363956141772
+      qom_32: -5071712267610440347
+      qom_33: 163153410855302102
+      qom_34: 7730893020056283390
+      qom_35: -4471533836695673104
+      qom_36: 9116111020030403211
+      qom_37: -8180610875833383886
+      qom_38: -2666028378524356986
+      qom_39: 4285237542193295439
+      qom_4: -7048388029226007169
+      qom_5: 2849948416737999838
+      qom_6: 8416883091578592175
+      qom_7: 3872965026848635587
+      qom_8: 4931631384614189012
+      qom_9: 4526183752501087439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
