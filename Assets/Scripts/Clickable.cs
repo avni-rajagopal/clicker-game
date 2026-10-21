@@ -23,6 +23,7 @@ public class Clickable : MonoBehaviour
             if (Random.Range(1,10)==1) sound.Play();
         }
         
+        Altitude.Value += 1;
         Clicks += 1;  // add one point
     }
 
