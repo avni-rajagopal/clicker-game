@@ -19,6 +19,10 @@ public class Clickable : MonoBehaviour
     /// </summary>
     private void OnMouseDown()
     {
+        if (TryGetComponent (out AudioSource sound)) {
+            if (Random.Range(1,10)==1) sound.Play();
+        }
+        
         Clicks += 1;  // add one point
     }
 
