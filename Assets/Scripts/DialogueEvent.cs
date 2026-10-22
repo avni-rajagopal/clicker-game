@@ -1,6 +1,7 @@
 using UnityEngine;
 using TMPro;
 using System.Collections;
+using UnityEngine.Events;
 
 public class DialogueEvent : MonoBehaviour
 {
@@ -13,6 +14,8 @@ public class DialogueEvent : MonoBehaviour
     public TMP_Text text; // the text box dialogue is displayed in
     // public GameObject obstacle; // the obstacle to be started after dialogue finishes 
     public Obstacle obstacle;
+
+    public UnityEvent onFinished; // anything else to run when this dialogue ends
 
     private int lineIndex = 0; // keeps track of index of current line being said
 
@@ -78,6 +81,7 @@ public class DialogueEvent : MonoBehaviour
         if (obstacle != null)
             obstacle.StartObstacle();
         
+        onFinished?.Invoke();
     }
 
     void ShowLine()
