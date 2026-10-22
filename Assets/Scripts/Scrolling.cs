@@ -27,7 +27,7 @@ public class Scrolling : MonoBehaviour
     {
         startY = transform.position.y;
 
-        ////SUUPER TEMPORARY BUT IT"S ANNOYING TO KEEP CLICKING TO TEST MY DIALOGUE
+        //// TEMPORARY BUT IT'S ANNOYING TO KEEP CLICKING TO TEST MY DIALOGUE
         // just set altitude to 50
         // Altitude.Value = 120;
         Altitude.Value = 50;

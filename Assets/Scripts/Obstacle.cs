@@ -59,7 +59,7 @@ public class Obstacle : MonoBehaviour
 
     IEnumerator EmitLeaves()
     {
-        for (int i = 0; i < 10; i++)
+        for (int i = 0; i < 5; i++)
         {
             particles.Emit(1);
             yield return new WaitForSeconds(Random.Range(0.02f, 0.06f));
