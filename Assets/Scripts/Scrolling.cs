@@ -26,11 +26,9 @@ public class Scrolling : MonoBehaviour
     void Start()
     {
         startY = transform.position.y;
-
-        //// TEMPORARY BUT IT'S ANNOYING TO KEEP CLICKING TO TEST MY DIALOGUE
-        // just set altitude to 50
+        // manually setting altitude for testing
         // Altitude.Value = 120;
-        Altitude.Value = 50;
+        // Altitude.Value = 50;
 
         riderStartX = new float[riders.Length];
         for (int i = 0; i < riders.Length; i++)
