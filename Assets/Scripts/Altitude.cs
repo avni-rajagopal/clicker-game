@@ -9,4 +9,5 @@
 public static class Altitude
 {
     public static float Value = 0f;
+    public static float Max = 180f; // the balloon can't go higher than this
 }

@@ -32,7 +32,7 @@ public class Clickable : MonoBehaviour
         
         if (!DialogueEvent.active && !Obstacle.active) // only update altitude when dialogue/obstacle isn't playing
         {
-            Altitude.Value += unitsPerClick;
+            Altitude.Value = Mathf.Min(Altitude.Value + unitsPerClick, Altitude.Max);
             Debug.Log("Altitude: " + Altitude.Value.ToString());
         }
         }
