@@ -24,9 +24,9 @@ public class Clickable : MonoBehaviour
     /// </summary>
     private void OnMouseDown()
     {
-        if (TryGetComponent (out AudioSource sound)) {
-            if (UnityEngine.Random.Range(0,20)==1) sound.Play();
-        }
+        //if (TryGetComponent (out AudioSource sound)) {
+        //    if (UnityEngine.Random.Range(0,20)==1) sound.Play();
+        //}
         Clicks += 1;  // add one point
         OnClick?.Invoke(Clicks); // broadcast click event
         
